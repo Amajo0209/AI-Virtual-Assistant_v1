@@ -1,0 +1,44 @@
+LISA version 1
+
+NOTE: you can say 'LISA' after or before the sentence.
+
+*List of words for the Commands:
+
+1) lisa -> used to call LISA
+2) name -> to ask LISA to say your name
+3) time -> to ask the current time
+4) how are you -> to greet LISA
+5) thanks -> to thank LISA
+6) song -> to ask LISA to play song
+7) remember -> to ask LISA to remember something for you
+8) something -> to ask LISA what she remembered
+9) on the lamp -> to ask LISA to turn on the lamp
+10)off the lamp -> to ask LISA to turn off the lamp
+11)open the door -> to tell LISA to open the door
+12)close the door -> to tell LISA to close the door
+13)offline -> tell LISA to stay offline
+14)temperature ->asking the temperature (LISA is going to read de data from DHT11)
+
+==== Commands ====
+
+1) how are you ...
+2) ... awake 
+3) stop listening ...
+4) ... song ...
+5) ... playlist ...
+
+Time
+
+6) good morning
+7) good afternoon
+8) good evening
+
+9) remember ...
+10) ... note
+
+Internet
+
+11) ... youtube
+12) ... google ...
+
+14) offline
