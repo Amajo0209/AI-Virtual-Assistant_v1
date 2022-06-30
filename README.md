@@ -1,0 +1,2 @@
+# AI-Virtual-Assistant_v1
+Hello everyone! In this repository you will find my complete code of my AI virtual assistant. It's an AI virtual assistant that can respond to any command you give it. It can respond to simple commands, browsing the internet, controlling any appliance in your house, and so forth. You can also connect any board you want. I'm currently working on the version two of this project.
